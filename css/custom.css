@@ -1,0 +1,7 @@
+.jumbotron:hover {
+  background: url('../img/EP5.jpg');
+  background-size: cover;
+  background-color: red;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
